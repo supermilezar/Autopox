@@ -1,1 +1,22 @@
+{
+  "EMOJI_WAITING": "<a:loading_line:1287349633802174496>",
+  "EMOJI_SUCCESS": "<a:Verified:1209329952147767306>",
+  "LOG_CHANNEL_WEBHOOKS": [
+    "https://discord.com/api/webhooks/1299886164274315355/ASN-T-ClWFz6tQNQUdcDPV3ryyI8SXVbXhSA86QKh6r6rGEi719AeWA-E9sT2wUUd3JC"
+  ],
+  "CHANNELS_CONFIG": [
+    {
+      "server_id": "571992648190263317",
+      "channel_id": "1104057271215984741",
+      "content": "**🛒 SELL CHEAP BLOCK at <:Arrow:850540193626193941> PA <:leftarrow:1290114989755072534> **\n- Chandelier\n- Shifty Block\n- Spooky Display Shelf\n- Display Block\n- Display Shelf\n- Display Box\n- Glowy Block\n- Hedge Block\n- Weeping Willow\n- Lovewillow\n\n**📢 Sell all blocks at <:Arrow:850540193626193941> PA <:leftarrow:1290114989755072534> **",
+      "interval_range": [300, 315, 302, 325, 341]
+    },
+    {
+      "server_id": "571992648190263317",
+      "channel_id": "733049257648586792",
+      "content": "**CHEAP SURGERY TOOLS AT IXPIA <:Verified:1000267030550827128>**\n\n(RESTOCKED <:bangbang:850540193626193941>)\n\nBuy Stitches? (200/120 <:WL:880251447470596157>) DM ME!!\n\n*\"Search Surgery Tools? Always <:Arrow:850540193626193941> IXPIA <:Verified:1000267030550827128>\"*",
+      "interval_range": [120, 125, 128, 140, 155]
+    }
+  ]
+}
 
